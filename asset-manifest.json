@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tesgemstar/static/css/main.480a6895.css",
+    "main.js": "/tesgemstar/static/js/main.47f36df4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tesgemstar/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tesgemstar/index.html",
+    "main.480a6895.css.map": "/tesgemstar/static/css/main.480a6895.css.map",
+    "main.47f36df4.js.map": "/tesgemstar/static/js/main.47f36df4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tesgemstar/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.480a6895.css",
+    "static/js/main.47f36df4.js"
+  ]
+}
